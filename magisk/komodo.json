@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/MtnDont/ota/releases/download/2025100301/komodo-2025100301-ca7cdab-magisk-canary-30400.zip",
-    "location_csig": "https://github.com/MtnDont/ota/releases/download/2025100301/komodo-2025100301-ca7cdab-magisk-canary-30400.zip.csig"
+    "location_ota": "https://github.com/MtnDont/ota/releases/download/2025100901/komodo-2025100901-ca7cdab-magisk-canary-30400.zip",
+    "location_csig": "https://github.com/MtnDont/ota/releases/download/2025100901/komodo-2025100901-ca7cdab-magisk-canary-30400.zip.csig"
   }
 }
