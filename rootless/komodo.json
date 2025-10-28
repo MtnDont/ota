@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/MtnDont/ota/releases/download/2025102301/komodo-2025102301-ca7cdab-rootless.zip",
-    "location_csig": "https://github.com/MtnDont/ota/releases/download/2025102301/komodo-2025102301-ca7cdab-rootless.zip.csig"
+    "location_ota": "https://github.com/MtnDont/ota/releases/download/2025102601/komodo-2025102601-ca7cdab-rootless.zip",
+    "location_csig": "https://github.com/MtnDont/ota/releases/download/2025102601/komodo-2025102601-ca7cdab-rootless.zip.csig"
   }
 }
