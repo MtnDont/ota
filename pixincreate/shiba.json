@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/MtnDont/ota/releases/download/2026092501/shiba-2026092501-04134b1-pixincreate-v30.7.zip",
-    "location_csig": "https://github.com/MtnDont/ota/releases/download/2026092501/shiba-2026092501-04134b1-pixincreate-v30.7.zip.csig"
+    "location_ota": "https://github.com/MtnDont/ota/releases/download/2026100201/shiba-2026100201-04134b1-pixincreate-v30.7.zip",
+    "location_csig": "https://github.com/MtnDont/ota/releases/download/2026100201/shiba-2026100201-04134b1-pixincreate-v30.7.zip.csig"
   }
 }
